@@ -2,9 +2,13 @@
 import express from "express";
 import dotenv from "dotenv";
 import colors from "colors";
+import connectDB from "./config/db.js";
 
 //Dot ENV config
 dotenv.config();
+
+// mongodb connection
+connectDB();
 
 //rest object
 const app = express();
