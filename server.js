@@ -11,6 +11,8 @@ import connectDB from "./config/db.js";
 import testRoutes from "./routes/testRoutes.js";
 import authRoutes from "./routes/authRoutes.js";
 import errroMiddelware from "./middelwares/errroMiddleware.js";
+import jobsRoutes from "./routes/jobsRoute.js";
+import userRoutes from "./routes/userRoutes.js";
 
 //Dot ENV config
 dotenv.config();
@@ -29,6 +31,8 @@ app.use(morgan("dev"));
 //routes
 app.use("/api/v1/test", testRoutes);
 app.use("/api/v1/auth", authRoutes);
+app.use("/api/v1/user", userRoutes);
+app.use("/api/v1/job", jobsRoutes);
 
 //validation middelware
 app.use(errroMiddelware);
