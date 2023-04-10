@@ -16,7 +16,7 @@ const jobSchema = new mongoose.Schema(
       enum: ["pending", "reject", "interview"],
       default: "pending",
     },
-    wotkType: {
+    workType: {
       type: String,
       enum: ["full-time", "part-time", "internship", "contaract"],
       default: "full-time",

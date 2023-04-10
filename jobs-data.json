@@ -5,7 +5,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Peru",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "interview",
     "position": "Assistant Professor",
     "company": "Eabox"
@@ -16,7 +16,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Sweden",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "interview",
     "position": "Account Coordinator",
     "company": "Rhyzio"
@@ -27,7 +27,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "pending",
     "position": "Statistician I",
     "company": "Feedmix"
@@ -38,7 +38,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Democratic Republic of the Congo",
-    "wotkType": "part-time",
+    "workType": "part-time",
     "status": "interview",
     "position": "Staff Scientist",
     "company": "Twitterbeat"
@@ -49,7 +49,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Thailand",
-    "wotkType": "contaract",
+    "workType": "contaract",
     "status": "interview",
     "position": "Compensation Analyst",
     "company": "Mita"
@@ -60,7 +60,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Poland",
-    "wotkType": "contaract",
+    "workType": "contaract",
     "status": "reject",
     "position": "Design Engineer",
     "company": "Devpulse"
@@ -71,7 +71,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Colombia",
-    "wotkType": "contaract",
+    "workType": "contaract",
     "status": "pending",
     "position": "Administrative Assistant III",
     "company": "Twitternation"
@@ -82,7 +82,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Brazil",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "interview",
     "position": "Internal Auditor",
     "company": "Fivechat"
@@ -93,7 +93,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "part-time",
+    "workType": "part-time",
     "status": "reject",
     "position": "Community Outreach Specialist",
     "company": "Dazzlesphere"
@@ -104,7 +104,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Myanmar",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "pending",
     "position": "Assistant Manager",
     "company": "Riffpedia"
@@ -115,7 +115,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Peru",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "reject",
     "position": "Technical Writer",
     "company": "Realcube"
@@ -126,7 +126,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "pending",
     "position": "Geologist I",
     "company": "Rhyzio"
@@ -137,7 +137,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "United States",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "pending",
     "position": "VP Product Management",
     "company": "Vidoo"
@@ -148,7 +148,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Indonesia",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "pending",
     "position": "VP Sales",
     "company": "Wordpedia"
@@ -159,7 +159,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "France",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "pending",
     "position": "Marketing Assistant",
     "company": "Skipfire"
@@ -170,7 +170,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "United States",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "interview",
     "position": "Physical Therapy Assistant",
     "company": "Aimbu"
@@ -181,7 +181,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Indonesia",
-    "wotkType": "part-time",
+    "workType": "part-time",
     "status": "interview",
     "position": "Internal Auditor",
     "company": "Browseblab"
@@ -192,7 +192,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Thailand",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "interview",
     "position": "Marketing Assistant",
     "company": "Youfeed"
@@ -203,7 +203,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "reject",
     "position": "Structural Engineer",
     "company": "Realcube"
@@ -214,7 +214,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Vietnam",
-    "wotkType": "part-time",
+    "workType": "part-time",
     "status": "reject",
     "position": "Nurse Practicioner",
     "company": "Blogpad"
@@ -225,7 +225,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Mexico",
-    "wotkType": "part-time",
+    "workType": "part-time",
     "status": "reject",
     "position": "VP Product Management",
     "company": "Eabox"
@@ -236,7 +236,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Canada",
-    "wotkType": "part-time",
+    "workType": "part-time",
     "status": "pending",
     "position": "Automation Specialist IV",
     "company": "Bluejam"
@@ -247,7 +247,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Philippines",
-    "wotkType": "part-time",
+    "workType": "part-time",
     "status": "pending",
     "position": "Legal Assistant",
     "company": "Leexo"
@@ -258,7 +258,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Japan",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "interview",
     "position": "VP Marketing",
     "company": "Brainbox"
@@ -269,7 +269,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "pending",
     "position": "Administrative Officer",
     "company": "Oloo"
@@ -280,7 +280,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Indonesia",
-    "wotkType": "part-time",
+    "workType": "part-time",
     "status": "interview",
     "position": "Help Desk Technician",
     "company": "Viva"
@@ -291,7 +291,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "reject",
     "position": "Junior Executive",
     "company": "Youfeed"
@@ -302,7 +302,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "pending",
     "position": "Editor",
     "company": "Gigaclub"
@@ -313,7 +313,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Ivory Coast",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "reject",
     "position": "Quality Control Specialist",
     "company": "Shufflebeat"
@@ -324,7 +324,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Poland",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "interview",
     "position": "Design Engineer",
     "company": "InnoZ"
@@ -335,7 +335,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "pending",
     "position": "Sales Associate",
     "company": "Chatterpoint"
@@ -346,7 +346,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Democratic Republic of the Congo",
-    "wotkType": "contaract",
+    "workType": "contaract",
     "status": "reject",
     "position": "Software Engineer II",
     "company": "Photospace"
@@ -357,7 +357,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Russia",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "pending",
     "position": "General Manager",
     "company": "Blogtags"
@@ -368,7 +368,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Brazil",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "pending",
     "position": "Office Assistant II",
     "company": "Fadeo"
@@ -379,7 +379,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Ireland",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "reject",
     "position": "Statistician II",
     "company": "Skidoo"
@@ -390,7 +390,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "part-time",
+    "workType": "part-time",
     "status": "pending",
     "position": "Recruiter",
     "company": "Vidoo"
@@ -401,7 +401,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "interview",
     "position": "VP Accounting",
     "company": "Feedbug"
@@ -412,7 +412,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Sweden",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "reject",
     "position": "Human Resources Assistant II",
     "company": "Agimba"
@@ -423,7 +423,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Philippines",
-    "wotkType": "contaract",
+    "workType": "contaract",
     "status": "interview",
     "position": "Electrical Engineer",
     "company": "Meedoo"
@@ -434,7 +434,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "reject",
     "position": "Financial Advisor",
     "company": "Fatz"
@@ -445,7 +445,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Iran",
-    "wotkType": "part-time",
+    "workType": "part-time",
     "status": "pending",
     "position": "Legal Assistant",
     "company": "Wikizz"
@@ -456,7 +456,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "contaract",
+    "workType": "contaract",
     "status": "reject",
     "position": "Sales Associate",
     "company": "Mita"
@@ -467,7 +467,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "interview",
     "position": "Software Engineer II",
     "company": "Mydeo"
@@ -478,7 +478,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Portugal",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "pending",
     "position": "Graphic Designer",
     "company": "Tavu"
@@ -489,7 +489,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Dominican Republic",
-    "wotkType": "part-time",
+    "workType": "part-time",
     "status": "interview",
     "position": "Nuclear Power Engineer",
     "company": "Flashspan"
@@ -500,7 +500,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "interview",
     "position": "Teacher",
     "company": "Gabvine"
@@ -511,7 +511,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "France",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "interview",
     "position": "Environmental Specialist",
     "company": "Innotype"
@@ -522,7 +522,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Indonesia",
-    "wotkType": "contaract",
+    "workType": "contaract",
     "status": "reject",
     "position": "Office Assistant III",
     "company": "Gabspot"
@@ -533,7 +533,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Belarus",
-    "wotkType": "contaract",
+    "workType": "contaract",
     "status": "interview",
     "position": "Web Developer I",
     "company": "Wordify"
@@ -544,7 +544,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Poland",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "reject",
     "position": "Assistant Media Planner",
     "company": "DabZ"
@@ -555,7 +555,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Sweden",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "reject",
     "position": "Senior Sales Associate",
     "company": "Babbleset"
@@ -566,7 +566,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Portugal",
-    "wotkType": "contaract",
+    "workType": "contaract",
     "status": "reject",
     "position": "Programmer Analyst III",
     "company": "Wikibox"
@@ -577,7 +577,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Philippines",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "interview",
     "position": "Mechanical Systems Engineer",
     "company": "Yodel"
@@ -588,7 +588,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "interview",
     "position": "Office Assistant III",
     "company": "Gabspot"
@@ -599,7 +599,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Ecuador",
-    "wotkType": "contaract",
+    "workType": "contaract",
     "status": "interview",
     "position": "Software Consultant",
     "company": "Browsedrive"
@@ -610,7 +610,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "China",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "interview",
     "position": "Community Outreach Specialist",
     "company": "Snaptags"
@@ -621,7 +621,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Sri Lanka",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "pending",
     "position": "Pharmacist",
     "company": "Linkbuzz"
@@ -632,7 +632,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Indonesia",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "pending",
     "position": "Assistant Manager",
     "company": "Tambee"
@@ -643,7 +643,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "United States",
-    "wotkType": "full-time",
+    "workType": "full-time",
     "status": "reject",
     "position": "Graphic Designer",
     "company": "Dynabox"
@@ -654,7 +654,7 @@
       "$oid": "6421edb348779449de42f80d"
     },
     "workLocation": "Indonesia",
-    "wotkType": "internship",
+    "workType": "internship",
     "status": "interview",
     "position": "Occupational Therapist",
     "company": "Zoomcast"
