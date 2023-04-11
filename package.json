@@ -17,11 +17,15 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "express-async-errors": "^3.1.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^6.7.0",
+    "helmet": "^6.1.2",
     "jsonwebtoken": "^9.0.0",
     "moment": "^2.29.4",
     "mongoose": "^7.0.2",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.21",
-    "validator": "^13.9.0"
+    "validator": "^13.9.0",
+    "xss-clean": "^0.1.1"
   }
 }
